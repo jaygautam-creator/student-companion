@@ -211,7 +211,7 @@ Ideal for:
 B.Tech CSE (AI & ML)  
 Flutter & App Development Enthusiast  
 
-- GitHub: https://github.com/jayg  
+- GitHub: https://github.com/jaygautam-creator
 - LinkedIn: https://www.linkedin.com/in/jay-gautam-coder/  
 - Portfolio: https://jaygautamportfolio.netlify.app/
 
