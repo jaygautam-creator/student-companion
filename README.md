@@ -155,7 +155,7 @@ lib/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/student_companion.git
+git clone https://github.com/jaygautam-creator/student_companion.git
 cd student_companion
 flutter pub get
 flutter run
